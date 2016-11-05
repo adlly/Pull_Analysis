@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<weather>
+	<city>
+		<name>上海</name>
+		<temp>5</temp>
+		<pm>20</pm>
+	</city>
+	<city>
+		<name>北京</name>
+		<temp>-5</temp>
+		<pm>800</pm>
+	</city>
+	<city>
+		<name>西安</name>
+		<temp>10</temp>
+		<pm>20</pm>
+	</city>
+
+
+
+</weather>
